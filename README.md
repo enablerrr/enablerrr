@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @enablerrr
-- 👀 I’m interested in DeFi
-- 🌱 I’m currently learning AWS
+- 👋 Hi, I’m Jamel Laurent
+- 👀 I’m interested in AWS, Solutions Architect, FinOps, DeFi and more...
+- 🌱 I’m currently learning and sharing AWS
 - 💞️ I’m looking to collaborate on DAO
-- 📫 How to reach me : https://www.linkedin.com/in/enablerr/
+- 📫 How to reach me : jml@enabler.world
 <!---
 enablerrr/enablerrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
